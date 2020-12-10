@@ -1,0 +1,22 @@
+09/20/19 7:53 pm:
+
+Assignment operator test: for a sequence with cursor at tail.
+Testing that size() returns 60 ... Failed.
+Basic test of size() or is_item() failed.
+
+Segmentation fault: 11
+
+09/20/19 10:29 pm:
+
+Assignment operator test: for a sequence with cursor at tail.		(2 pts)
+Testing that size() returns 60 ... Failed.
+Basic test of size() or is_item() failed.
+
+Test 6 failed.
+
+
+I am now using insert to put 10 into an empty sequence.             (4 pts)
+Testing that size() returns 1 ... Failed.
+Basic test of size() or is_item() failed.
+
+Test 1 failed.
